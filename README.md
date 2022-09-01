@@ -14,6 +14,31 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
 2. Create an account in Heroku (https://heroku.com)
 3. Create an account in App Inventor (http://ai2.appinventor.mit.edu)
 
+# Assignments
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Assignment</th>
+    <th>Deadline</th>
+  </tr>
+  <tr>
+    <td>1. </td>
+    <td>Solve anyone challenge in VS Code using Python3</td>
+    <td>2nd Sept 2022</td>
+  </tr>
+  <tr>
+    <td>2. </td>
+    <td>Create a Group Chat wihin your team using MQTT </td>
+    <td>2nd Sept 2022</td>
+  </tr>
+  <tr>
+    <td>3. </td>
+    <td>Publish virtual sensory feed to subscriber </td>
+    <td>2nd Sept 2022</td>
+  </tr>
+  
+</table>
+
 # Telegram Group
 https://t.me/+TfEumzSPGLk2YTk9
 
