@@ -6,6 +6,9 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
 2. Python3 (https://python.org)
 3. Git (https://git-scm.com)
 
+# Packages
+1. pip install paho-mqtt
+
 # Accounts
 1. Create an account in GitHub (https://github.com)
 2. Create an account in Heroku (https://heroku.com)
