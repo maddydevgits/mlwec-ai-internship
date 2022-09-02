@@ -36,6 +36,16 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>Publish virtual sensory feed to subscriber </td>
     <td>2nd Sept 2022</td>
   </tr>
+  <tr>
+    <td>4. </td>
+    <td>Create a dataset for IoT Sensory Feed </td>
+    <td>3rd Sept 2022</td>
+  </tr>
+  <tr>
+    <td>5. </td>
+    <td>Apply Data Wrangling on Data (CSV) </td>
+    <td>3rd Sept 2022</td>
+  </tr>
   
 </table>
 
