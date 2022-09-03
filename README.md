@@ -46,6 +46,11 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>Apply Data Wrangling on Data (CSV) </td>
     <td>3rd Sept 2022</td>
   </tr>
+  <tr>
+    <td>6. </td>
+    <td>Salary Prediction System </td>
+    <td>4th Sept 2022</td>
+  </tr>
   
 </table>
 
