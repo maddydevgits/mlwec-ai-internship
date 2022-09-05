@@ -51,6 +51,16 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>Salary Prediction System </td>
     <td>4th Sept 2022</td>
   </tr>
+  <tr>
+    <td>7. </td>
+    <td>Profit Prediction System </td>
+    <td>6th Sept 2022</td>
+  </tr>
+  <tr>
+    <td>8. </td>
+    <td>Salary Estimation System </td>
+    <td>6th Sept 2022</td>
+  </tr>
   
 </table>
 
