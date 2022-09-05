@@ -277,6 +277,126 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>Iris Tracking using Mediapipe</td>
     <td></td>
   </tr>
+  <tr>
+    <td>42.</td>
+    <td>Wine Quality Prediction</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>43.</td>
+    <td>Loan Eligibility Prediction</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>44.</td>
+    <td>Survival Prediction on the Titanic Ship</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>45.</td>
+    <td>SMS Spam Detection</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>46.</td>
+    <td>Heart Disease Prediction</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>47.</td>
+    <td>Loan Eligibility Tracking System</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>48.</td>
+    <td>Skin Cancer Detection</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>49.</td>
+    <td>Motion Detection through Computer Vision</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>50.</td>
+    <td>Disaster Message Detection</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>51.</td>
+    <td>Hate Spech Detection</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>52.</td>
+    <td>Hotel Reviews Sentimental Analysis</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>53.</td>
+    <td>Bankruptcy Prediction Model with Machine Learning</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>54.</td>
+    <td>IPL Analysis using Python</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>55.</td>
+    <td>Predict Fuel Efficiency</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>56.</td>
+    <td>Crop Prediction System using Machine Learning</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>57.</td>
+    <td>Create a Monkey Filter using Face Detection</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>58.</td>
+    <td>Mobile App for 50-Startups Profit Prediction</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>59.</td>
+    <td>Telegram Bot for Salary Prediction</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>60.</td>
+    <td>Deployment of ML Project in Heroku </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>61.</td>
+    <td>Smart Attendance System</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>62.</td>
+    <td>Apply KNN on IoT Dataset</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>63.</td>
+    <td>Sorting Tweets in Twitter</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>64.</td>
+    <td>Covid Symptom Checker Bot</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>65.</td>
+    <td>Google Play Store Sentiment Analysis using Python</td>
+    <td></td>
+  </tr>
 </table>
 
 # Telegram Group
