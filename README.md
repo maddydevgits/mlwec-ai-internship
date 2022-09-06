@@ -71,6 +71,16 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>Crop Prediction System</td>
     <td>7th Sept 2022</td>
   </tr>
+  <tr>
+    <td>11.</td>
+    <td>ML Flask Web App</td>
+    <td>8th Sept 2022</td>
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td>Heroku Deployment</td>
+    <td>8th Sept 2022</td>
+  </tr>
   
 </table>
 
