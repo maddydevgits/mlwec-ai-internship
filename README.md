@@ -75,267 +75,267 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
   <tr>
     <td>1. </td>
     <td>Resume Parsing using Spacy</td>
-    <td></td>
+    <td>Cinco Tech</td>
   </tr>
   <tr>
     <td>2. </td>
     <td>Hand Gesture Based Volume Control </td>
-    <td></td>
+    <td>Gold Miners</td>
   </tr>
   <tr>
     <td>3. </td>
     <td>Telegram Student Bot </td>
-    <td></td>
+    <td>Trio Buddy's</td>
   </tr>
   <tr>
     <td>4. </td>
     <td>Alexa Based Virtual IoT Lamp</td>
-    <td></td>
+    <td>Error 404</td>
   </tr>
   <tr>
     <td>5. </td>
     <td>Yoga Tracking System</td>
-    <td></td>
+    <td>Beam Brainers</td>
   </tr>
   <tr>
     <td>6. </td>
     <td>Social Distance Detector</td>
-    <td></td>
+    <td>Canonical Python</td>
   </tr>
   <tr>
     <td>7. </td>
     <td>Music Recommendation System</td>
-    <td></td>
+    <td>Future Billionaries</td>
   </tr>
   <tr>
     <td>8. </td>
     <td>News Bot</td>
-    <td></td>
+    <td>Nuns for Runs</td>
   </tr>
   <tr>
     <td>9. </td>
     <td>Earthquake Detection using Machine Learning</td>
-    <td></td>
+    <td>Wise Crackers</td>
   </tr>
   <tr>
     <td>10. </td>
     <td>Ted Talks Recommendation System</td>
-    <td></td>
+    <td>Waves of Data</td>
   </tr>
   <tr>
     <td>11. </td>
     <td>Weather Forecasting</td>
-    <td></td>
+    <td>Easy Cracks</td>
   </tr>
   <tr>
     <td>12. </td>
     <td>Twitter Sentimental Analysis</td>
-    <td></td>
+    <td>SM3</td>
   </tr>
   <tr>
     <td>13. </td>
     <td>Movie Recommendation System </td>
-    <td></td>
+    <td>Out of the Box</td>
   </tr>
   <tr>
     <td>14. </td>
     <td>Car Value Prediction</td>
-    <td></td>
+    <td>Victorious Secret</td>
   </tr>
   <tr>
     <td>15. </td>
     <td>Student Grade Prediction System </td>
-    <td></td>
+    <td>Tech Warriors</td>
   </tr>
   <tr>
     <td>16. </td>
     <td>Crpyto Currency Value Prediction</td>
-    <td></td>
+    <td>Cascade</td>
   </tr>
   <tr>
     <td>17.</td>
     <td>Rainfall Prediction</td>
-    <td></td>
+    <td>Impact Players</td>
   </tr>
   <tr>
     <td>18.</td>
     <td>House Rental Prediction System </td>
-    <td></td>
+    <td>Passion Entrepreneurs</td>
   </tr>
   <tr>
     <td>19.</td>
     <td>Water Quality Analysis </td>
-    <td></td>
+    <td>The Incredibles</td>
   </tr>
   <tr>
     <td>20.</td>
     <td>Credit Card Fraud Detection System </td>
-    <td></td>
+    <td>The Acheivers</td>
   </tr>
   <tr>
     <td>21.</td>
     <td>Sign Language Translator</td>
-    <td></td>
+    <td>Smart Seekers</td>
   </tr>
   <tr>
     <td>22.</td>
     <td>Pneumonia Detection System </td>
-    <td></td>
+    <td>IEMP Team</td>
   </tr>
   <tr>
     <td>23.</td>
     <td>Eye Disease Detector Web App</td>
-    <td></td>
+    <td>Keyboard Crackers</td>
   </tr>
   <tr>
     <td>24.</td>
     <td>Object Detection System</td>
-    <td></td>
+    <td>Blitz</td>
   </tr>
   <tr>
     <td>25.</td>
     <td>Face Mask Detection</td>
-    <td></td>
+    <td>The Avengers</td>
   </tr>
   <tr>
     <td>26. </td>
     <td>Stock Price Prediction System </td>
-    <td></td>
+    <td>Mind Optimizers</td>
   </tr>
   <tr>
     <td>27.</td>
     <td>Vehicles Counter using Yolo</td>
-    <td></td>
+    <td>Screenshot Society</td>
   </tr>
   <tr>
     <td>28.</td>
     <td>Email Spam Detection</td>
-    <td></td>
+    <td>Buddies Crime</td>
   </tr>
   <tr>
     <td>29.</td>
     <td>Covid-19 Dashboard</td>
-    <td></td>
+    <td>Next Gen</td>
   </tr>
   <tr>
     <td>30.</td>
     <td>Student Feedback System</td>
-    <td></td>
+    <td>Passion Pavers</td>
   </tr>
   <tr>
     <td>31.</td>
     <td>Uber Data Analysis</td>
-    <td></td>
+    <td>Server Side Squad</td>
   </tr>
   <tr>
     <td>32.</td>
     <td>Fake News Detection</td>
-    <td></td>
+    <td>Deep Learners</td>
   </tr>
   <tr>
     <td>33.</td>
     <td>Tourism Management System</td>
-    <td></td>
+    <td>Array Avengers</td>
   </tr>
   <tr>
     <td>34.</td>
     <td>Diabetes Prediction</td>
-    <td></td>
+    <td>Indent</td>
   </tr>
   <tr>
     <td>35.</td>
     <td>Celebrity Face Recognition</td>
-    <td></td>
+    <td>White Web</td>
   </tr>
   <tr>
     <td>36.</td>
     <td>Face Recognition using Python</td>
-    <td></td>
+    <td>AI Avengers</td>
   </tr>
   <tr>
     <td>37.</td>
     <td>Read Text from Image</td>
-    <td></td>
+    <td>Debug Thugs</td>
   </tr>
   <tr>
     <td>38.</td>
     <td>Fertilizer Prediction System</td>
-    <td></td>
+    <td>Classic Coders</td>
   </tr>
   <tr>
     <td>39.</td>
     <td>Age and Gender Prediction System</td>
-    <td></td>
+    <td>Heart Land AI</td>
   </tr>
   <tr>
     <td>40.</td>
     <td>Emotion Prediction System using AWS</td>
-    <td></td>
+    <td>Incredible Dragons</td>
   </tr>
   <tr>
     <td>41.</td>
     <td>Iris Tracking using Mediapipe</td>
-    <td></td>
+    <td>The Innovage</td>
   </tr>
   <tr>
     <td>42.</td>
     <td>Wine Quality Prediction</td>
-    <td></td>
+    <td>WOW</td>
   </tr>
   <tr>
     <td>43.</td>
     <td>Loan Eligibility Prediction</td>
-    <td></td>
+    <td>Algorithm Unlock</td>
   </tr>
   <tr>
     <td>44.</td>
     <td>Survival Prediction on the Titanic Ship</td>
-    <td></td>
+    <td>Python Pointers</td>
   </tr>
   <tr>
     <td>45.</td>
     <td>SMS Spam Detection</td>
-    <td></td>
+    <td>AI Agents</td>
   </tr>
   <tr>
     <td>46.</td>
     <td>Heart Disease Prediction</td>
-    <td></td>
+    <td>Program Chasers</td>
   </tr>
   <tr>
     <td>47.</td>
     <td>Loan Eligibility Tracking System</td>
-    <td></td>
+    <td>Viper Kodea</td>
   </tr>
   <tr>
     <td>48.</td>
     <td>Skin Cancer Detection</td>
-    <td></td>
+    <td>Dark Web</td>
   </tr>
   <tr>
     <td>49.</td>
     <td>Motion Detection through Computer Vision</td>
-    <td></td>
+    <td>Agile Sprinters</td>
   </tr>
   <tr>
     <td>50.</td>
     <td>Disaster Message Detection</td>
-    <td></td>
+    <td>AI Vision</td>
   </tr>
   <tr>
     <td>51.</td>
     <td>Hate Spech Detection</td>
-    <td></td>
+    <td>Smart Vision</td>
   </tr>
   <tr>
     <td>52.</td>
     <td>Hotel Reviews Sentimental Analysis</td>
-    <td></td>
+    <td>Mind Installers</td>
   </tr>
   <tr>
     <td>53.</td>
     <td>Bankruptcy Prediction Model with Machine Learning</td>
-    <td></td>
+    <td>Solo Learners</td>
   </tr>
   <tr>
     <td>54.</td>
@@ -345,52 +345,52 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
   <tr>
     <td>55.</td>
     <td>Predict Fuel Efficiency</td>
-    <td></td>
+    <td>Code Maniac</td>
   </tr>
   <tr>
     <td>56.</td>
     <td>Crop Prediction System using Machine Learning</td>
-    <td></td>
+    <td>The Lightening Legends</td>
   </tr>
   <tr>
     <td>57.</td>
     <td>Create a Monkey Filter using Face Detection</td>
-    <td></td>
+    <td>Dreams of Reality</td>
   </tr>
   <tr>
     <td>58.</td>
     <td>Mobile App for 50-Startups Profit Prediction</td>
-    <td></td>
+    <td>Miracle Workers</td>
   </tr>
   <tr>
     <td>59.</td>
     <td>Telegram Bot for Salary Prediction</td>
-    <td></td>
+    <td>Kirak</td>
   </tr>
   <tr>
     <td>60.</td>
     <td>Deployment of ML Project in Heroku </td>
-    <td></td>
+    <td>Sky High AI</td>
   </tr>
   <tr>
     <td>61.</td>
     <td>Smart Attendance System</td>
-    <td></td>
+    <td>Tech Rockers</td>
   </tr>
   <tr>
     <td>62.</td>
     <td>Apply KNN on IoT Dataset</td>
-    <td></td>
+    <td>Team Fusion</td>
   </tr>
   <tr>
     <td>63.</td>
     <td>Sorting Tweets in Twitter</td>
-    <td></td>
+    <td>Data Pirates</td>
   </tr>
   <tr>
     <td>64.</td>
     <td>Covid Symptom Checker Bot</td>
-    <td></td>
+    <td>Unique Team</td>
   </tr>
   <tr>
     <td>65.</td>
