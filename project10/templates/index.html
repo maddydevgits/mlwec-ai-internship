@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Crop Prediction System
+        </title>
+    </head>
+    <body>
+        <form action="/predict" method="POST">
+            <label>Enter Nitrogen:</label>
+            <input type="text" name="N" /><br/>
+            <label>Enter Phosphorous:</label>
+            <input type="text" name="P" /><br/>
+            <label>Enter Potassium:</label>
+            <input type="text" name="K" /><br/>
+            <label>Enter Temperature:</label>
+            <input type="text" name="T" /><br/>
+            <label>Enter Humidity:</label>
+            <input type="text" name="H" /><br/>
+            <label>Enter pH:</label>
+            <input type="text" name="PH" /><br/>
+            <label>Enter Rainfall:</label>
+            <input type="text" name="R" /><br/>
+            <input type="submit" />
+            {{result}}
+        </form>
+    </body>
+</html>
