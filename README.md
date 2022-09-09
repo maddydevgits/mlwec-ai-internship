@@ -307,6 +307,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>43.</td>
     <td>Loan Eligibility Prediction</td>
     <td>Algorithm Unlock</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>44.</td>
