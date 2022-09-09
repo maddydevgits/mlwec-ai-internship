@@ -161,6 +161,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>16. </td>
     <td>Crpyto Currency Value Prediction</td>
     <td>Cascade</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>17.</td>
@@ -242,6 +243,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>31.</td>
     <td>Uber Data Analysis</td>
     <td>Server Side Squad</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>32.</td>
