@@ -171,6 +171,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>18.</td>
     <td>House Rental Prediction System </td>
     <td>Passion Entrepreneurs</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>19.</td>
