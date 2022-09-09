@@ -71,16 +71,19 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <th>S.No</th>
     <th>Name of Project</th>
     <th>Team</th>
+    <th>Status</th>
   </tr>
   <tr>
     <td>1. </td>
     <td>Resume Parsing using Spacy</td>
     <td>Cinco Tech</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>2. </td>
     <td>Hand Gesture Based Volume Control </td>
     <td>Gold Miners</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>3. </td>
@@ -91,26 +94,31 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>4. </td>
     <td>Alexa Based Virtual IoT Lamp</td>
     <td>Error 404</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>5. </td>
     <td>Yoga Tracking System</td>
     <td>Beam Brainers</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>6. </td>
     <td>Social Distance Detector</td>
     <td>Canonical Python</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>7. </td>
     <td>Music Recommendation System</td>
     <td>Future Billionaries</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>8. </td>
     <td>News Bot</td>
     <td>Nuns for Runs</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>9. </td>
@@ -141,11 +149,13 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>14. </td>
     <td>Car Value Prediction</td>
     <td>Victorious Secret</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>15. </td>
     <td>Student Grade Prediction System </td>
     <td>Tech Warriors</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>16. </td>
@@ -166,6 +176,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>19.</td>
     <td>Water Quality Analysis </td>
     <td>The Incredibles</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>20.</td>
@@ -176,6 +187,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>21.</td>
     <td>Sign Language Translator</td>
     <td>Smart Seekers</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>22.</td>
@@ -211,11 +223,13 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>28.</td>
     <td>Email Spam Detection</td>
     <td>Buddies Crime</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>29.</td>
     <td>Covid-19 Dashboard</td>
     <td>Next Gen</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>30.</td>
@@ -236,11 +250,13 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>33.</td>
     <td>Tourism Management System</td>
     <td>Array Avengers</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>34.</td>
     <td>Diabetes Prediction</td>
     <td>Indent</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>35.</td>
@@ -256,11 +272,13 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>37.</td>
     <td>Read Text from Image</td>
     <td>Debug Thugs</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>38.</td>
     <td>Fertilizer Prediction System</td>
     <td>Classic Coders</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>39.</td>
@@ -276,11 +294,13 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>41.</td>
     <td>Iris Tracking using Mediapipe</td>
     <td>The Innovage</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>42.</td>
     <td>Wine Quality Prediction</td>
     <td>WOW</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>43.</td>
@@ -296,11 +316,13 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>45.</td>
     <td>SMS Spam Detection</td>
     <td>AI Agents</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>46.</td>
     <td>Heart Disease Prediction</td>
     <td>Program Chasers</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>47.</td>
@@ -316,6 +338,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>49.</td>
     <td>Motion Detection through Computer Vision</td>
     <td>Agile Sprinters</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>50.</td>
@@ -326,11 +349,13 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>51.</td>
     <td>Hate Spech Detection</td>
     <td>Smart Vision</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>52.</td>
     <td>Hotel Reviews Sentimental Analysis</td>
     <td>Mind Installers</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>53.</td>
@@ -351,6 +376,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>56.</td>
     <td>Crop Prediction System using Machine Learning</td>
     <td>The Lightening Legends</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>57.</td>
@@ -391,11 +417,13 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>64.</td>
     <td>Covid Symptom Checker Bot</td>
     <td>Unique Team</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>65.</td>
     <td>Google Play Store Sentiment Analysis using Python</td>
     <td></td>
+    <td>Completed</td>
   </tr>
 </table>
 
