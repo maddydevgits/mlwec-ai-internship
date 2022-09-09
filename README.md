@@ -214,6 +214,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>26. </td>
     <td>Stock Price Prediction System </td>
     <td>Mind Optimizers</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>27.</td>
