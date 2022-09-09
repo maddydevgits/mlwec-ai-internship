@@ -412,6 +412,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>63.</td>
     <td>Sorting Tweets in Twitter</td>
     <td>Data Pirates</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>64.</td>
