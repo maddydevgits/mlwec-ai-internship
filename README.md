@@ -124,6 +124,7 @@ This programme is for Malineni Lakshmaiah Women's Engineering College, Guntur on
     <td>9. </td>
     <td>Earthquake Detection using Machine Learning</td>
     <td>Wise Crackers</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>10. </td>
